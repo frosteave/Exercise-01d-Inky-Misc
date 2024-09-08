@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Alyssa Luckritz
 
-# Your Github username
+# frosteave
